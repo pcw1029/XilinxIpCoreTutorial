@@ -49,6 +49,14 @@ $$
 
 
 
+프로젝트 생성 및 사용 방법은 아래를 참고
+
+[How to DDS_Prorammable_Set](https://github.com/pcw1029/XilinxIpCoreTutorial/blob/main/DDS/ProgrammableSet/DDS_Programmable_Settings.md)
+
+
+
+
+
 ### Streaming
 
 **Streaming**을 선택하면 DDS가 **S_AXIS_PHASE** 포트를 통해 **실시간 Phase Increment** 값을 스트리밍 데이터로 받아온다. 이 옵션은 Programmable과 몇 가지 중요한 차이점이 있다:
