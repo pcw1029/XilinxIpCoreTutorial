@@ -9,6 +9,8 @@ DDS Compiler는 Direct Digital Synthesis (DDS) 기술을 FPGA에서 구현하기
 ## Phase Increment Programmability 옵션
 
 이 옵션은 DDS의 **Phase Increment** 값을 어떻게 제공할지 결정하는 옵션 입니다. Phase Increment 값은 출력 주파수를 결정하는 데 중요한 파라미터이며, DDS의 출력 주파수는 아래 공식을 따릅니다:
+
+
 $$
 f_{\text{out}} = \frac{\text{(Phase Increment Value)} \times f_{\text{clk}}}{2^N}
 $$
@@ -16,7 +18,6 @@ $$
 $$
 \text{Phase Increment Value} = \frac{f_{\text{out}} \times 2^N}{f_{\text{clk}}}
 $$
-
 
 **Fixed**: 고정된 Phase Increment 값을 사용.
 
