@@ -51,7 +51,7 @@ $$
 
 프로젝트 생성 및 사용 방법은 아래를 참고
 
-[How to DDS_Prorammable_Set](https://github.com/pcw1029/XilinxIpCoreTutorial/blob/main/DDS/ProgrammableSet/DDS_Programmable_Settings.md)
+[How to set DDS_Prorammable](https://github.com/pcw1029/XilinxIpCoreTutorial/blob/main/DDS/ProgrammableSet/DDS_Programmable_Settings.md)
 
 
 
@@ -74,3 +74,6 @@ $$
 
 
 
+프로젝트 생성 및 사용 방법은 아래를 참고
+
+[How to set DDS_Streaming](https://github.com/pcw1029/XilinxIpCoreTutorial/blob/main/DDS/StreamingSet/DDS_Streaming_Settings.md)
